@@ -6,7 +6,7 @@ let audio, playbtn, title, poster, artists, mutebtn, seekslider, volumeslider, s
     document.body.style.backgroundImage = "url('./images/background.jpg')";
 //Initialization of Array of Music, title, poster, image, artists
 
-dir="/Music/";
+dir="./Music/";
 playlist=[ "Cartoon-On-_-On","Elektronomia","Johnning","Popsicle", "Fearless"];
 title=["Cartoon - On & On feat. Daniel Levi","Sky High","Heroes Tonight (feat. Johnning","Popsicle","Fearless"];
 artists=["a","b","c","d"];
